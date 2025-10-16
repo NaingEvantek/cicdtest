@@ -1,0 +1,40 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/JetBrains IDE files
+.idea/
+*.iml
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+# NuGet package folder
+packages/
+
+# ASP.NET temporary files
+App_Data/
+
+# Logs
+*.log
+
+# Secret or local configuration files
+appsettings.*.json
+secrets.json
+
+# Publish folders
+*.publish.xml
+*.publishproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
